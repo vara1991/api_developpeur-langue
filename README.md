@@ -1,6 +1,7 @@
 # api_developpeur-langue
 
 Dans application.properties :
+
 spring.datasource.url=jdbc:mysql://localhost:3306/VE_API_developpeur?serverTimezone=GMT
 spring.datasource.username=******
 spring.datasource.password=******
